@@ -1,4 +1,4 @@
-# Projet e, Analyse de ventes d'une grande librairie généraliste en ligne.
+## Projet e, Analyse de ventes d'une grande librairie généraliste en ligne.
 
 
 - Réalisation de différents indicateurs et graphiques autour du chiffre d'affaires et son évolution dans le temps
